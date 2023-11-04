@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Form Example</title>
+</head>
+<body>
+    <h1>Submit a Form vai get</h1>
+    <form action="/userData" method="get">
+        <label for="username">Username:</label>
+        <input type="text" id="username" name="username1" required><br><br>
+
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password1" required><br><br>
+
+        <input type="submit" value="Submit via Get">
+    </form>
+
+    <h1>Submit a Form vai post</h1>
+    <form action="/userData" method="post">
+        <label for="username">Username:</label>
+        <input type="text" id="username" name="username1" required><br><br>
+
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password1" required><br><br>
+
+        <input type="submit" value="Submit via Post">
+    </form>
+</body>
+</html>

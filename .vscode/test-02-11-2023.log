@@ -1,0 +1,8 @@
+2023-11-02 18:33:44,332 - INFO - This is an info message
+2023-11-02 18:33:44,332 - WARNING - This is a warning message
+2023-11-02 18:33:44,333 - ERROR - This is an error message
+2023-11-02 18:33:44,335 - CRITICAL - This is a critical message
+2023-11-02 18:54:10,093 : INFO : This is an info message
+2023-11-02 18:54:10,094 : WARNING : This is a warning message
+2023-11-02 18:54:10,101 : ERROR : This is an error message
+2023-11-02 18:54:10,102 : CRITICAL : This is a critical message
