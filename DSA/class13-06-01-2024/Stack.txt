@@ -1,3 +1,0 @@
-stack --> FILO/LIFO (Fast in last out/ list in fast out)
-
-real world --> Resturant --> stack of plates
