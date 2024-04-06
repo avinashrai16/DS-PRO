@@ -1,0 +1,7 @@
+ Queue --> First in Forst out (FIFO) /Last in last out (LILO)
+
+ Real world example :
+ load balancer --> LB --> Round Robin
+
+ insert -- > en Queue O(1)
+ remove --> de Queue O(1)

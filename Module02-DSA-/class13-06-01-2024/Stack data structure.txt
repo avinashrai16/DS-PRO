@@ -1,0 +1,7 @@
+stack data structure --> FILO/LIFO (Fast in last out/ list in fast out)
+
+real world Example -->
+Resturant --> stack of plates
+undo in any editor, browser history, is using stack data structure
+
+insert --> push O(1) , removal of an item --> pop O(1), traverse--> traversal O(n), which element at the top ? --> peek O(1)
